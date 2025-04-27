@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Ssleert\\Schat\\": "src/"
+        }
+    },
+    "require-dev": {
+        "php-cs-fixer/shim": "^3.75"
+    }
+}
